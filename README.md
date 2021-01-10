@@ -1,4 +1,4 @@
-# Real Time Sheep/Lamb Detection using YoloV3 and OpenCV
+# Real Time Sheep Detection using YoloV3 and OpenCV
 
 ## Introduction
 
