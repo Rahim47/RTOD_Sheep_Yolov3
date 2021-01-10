@@ -1,4 +1,4 @@
-# Real Time Sheep Detection using YoloV3 and OpenCV
+# Real Time Sheep/Lamb Detection using YoloV3 and OpenCV
 
 ## Introduction
 
@@ -34,3 +34,12 @@ The hardware specification provided in Google Colab environment are <a href="htt
 </figure>
 
 ## Results
+
+for the sake of comparison below are the result of my own trained weight model vs. the pre-trained model:
+If you want to insert images, this is how you do it:
+
+#### Image result from pretrained weight file:
+![pretrained](img/pretrained.png)
+
+#### Image result from my custom weight file:
+![pretrained](img/custom.png)
